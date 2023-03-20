@@ -3,20 +3,14 @@ import pyautogui
 import time
 import keyboard
 import random
-import pytesseract
-from PIL import ImageGrab
-from PIL import Image
-import cv2
-import numpy as np
 import os.path
-import sys
 
 # Fail-Safes
 pyautogui.PAUSE = 0
 # If you drag your mouse to the upper left will abort program
 pyautogui.FAILSAFE = False
 # Get screen res
-window=pyautogui.size()
+window = pyautogui.size()
 running = True
 
 xposRandom = 50
@@ -34,7 +28,7 @@ def multiSearchCenter(name, conf):
     var = False
     iterator = 0
     while not var and os.path.exists(f'{name}{iterator}.PNG'):
-        var = pyautogui.locateCenterOnScreen(f'{name}{iterator}.PNG',confidence=conf)
+        var = pyautogui.locateCenterOnScreen(f'{name}{iterator}.PNG', confidence=conf)
         iterator += 1
     return var
 
@@ -42,7 +36,7 @@ def multiSearch(name, conf):
     var = False
     iterator = 0
     while not var and os.path.exists(f'{name}{iterator}.PNG'):
-        var = pyautogui.locateOnScreen(f'{name}{iterator}.PNG',confidence=conf)
+        var = pyautogui.locateOnScreen(f'{name}{iterator}.PNG', confidence=conf)
         iterator += 1
     return var
 
@@ -54,8 +48,10 @@ def loopCheck(str):
 
     iterator = 0
     pos = multiSearchCenter(str, 0.9)
-    while not pos is None and iterator < 100:
-        pyautogui.click(x=pos[0] + random.randrange(-xposRandom, xposRandom), y=pos[1] + random.randrange(-yposRandom, yposRandom), clicks=2, interval = clickDelay, button='left')
+    while pos is not None and iterator < 100:
+        pyautogui.click(x=pos[0] + random.randrange(-xposRandom, xposRandom),
+                        y=pos[1] + random.randrange(-yposRandom, yposRandom),
+                        clicks=2, interval = clickDelay, button='left')
         pos = multiSearchCenter(str, 0.9)
         randomSleep(0.1)
         iterator += 1
@@ -71,10 +67,12 @@ def checkShop():
     
     # Checks for covenants
     if not covBought:
-        covPos=multiSearchCenter('Covenant', 0.9)
+        covPos = multiSearchCenter('Covenant', 0.9)
         if covPos:
             global covTotal
-            pyautogui.click(x=covPos[0] + 750 + random.randrange(-xposRandom, xposRandom), y=covPos[1] + 55 + random.randrange(-yposRandom, yposRandom), clicks=2, interval = clickDelay, button='left')
+            pyautogui.click(x=covPos[0] + 750 + random.randrange(-xposRandom, xposRandom),
+                            y=covPos[1] + 55 + random.randrange(-yposRandom, yposRandom),
+                            clicks=2, interval=clickDelay, button='left')
 
             if not loopCheck('CovenantConfirm'):
                 running = False
@@ -85,10 +83,12 @@ def checkShop():
     
     # Checks for mystic
     if not mysticBought:
-        mysticPos=multiSearchCenter('Mystic', 0.9)
+        mysticPos = multiSearchCenter('Mystic', 0.9)
         if mysticPos:
             global mysticTotal
-            pyautogui.click(x = mysticPos[0] + 750 + random.randrange(-xposRandom, xposRandom), y = mysticPos[1] + 55 + random.randrange(-yposRandom, yposRandom), clicks=2, interval = clickDelay, button='left')
+            pyautogui.click(x=mysticPos[0] + 750 + random.randrange(-xposRandom, xposRandom),
+                            y=mysticPos[1] + 55 + random.randrange(-yposRandom, yposRandom),
+                            clicks=2, interval=clickDelay, button='left')
             
             if not loopCheck('MysticConfirm'):
                 running = False
@@ -117,9 +117,11 @@ while running:
     
     # Scroll downwards if anything else can be bought
     if not covBought or not mysticBought:
-        pyautogui.moveTo(window[0]*0.6 + random.randrange(-xposRandom, xposRandom), window[1]/2 + 200 + random.randrange(-yposRandom, yposRandom), duration=0)
-        #Drag upward 500 pixels in 0.2 seconds
-        pyautogui.dragTo(window[0]*0.6 + random.randrange(-xposRandom, xposRandom), window[1]/2 - 200 + random.randrange(-yposRandom, yposRandom), duration=0.2)
+        pyautogui.moveTo(window[0]*0.6 + random.randrange(-xposRandom, xposRandom), window[1]/2 +
+                         200 + random.randrange(-yposRandom, yposRandom), duration=0)
+        # Drag upward 500 pixels in 0.2 seconds
+        pyautogui.dragTo(window[0]*0.6 + random.randrange(-xposRandom, xposRandom), window[1]/2 -
+                         200 + random.randrange(-yposRandom, yposRandom), duration=0.2)
         randomSleep(0.2)
         checkShop()
 
