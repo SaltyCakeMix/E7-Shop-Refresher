@@ -1,0 +1,348 @@
+-Something happened...-
+Covenant summons bought: 16
+Mystic summons bought: 2
+Refreshes done: 277
+Skystones used: 831
+Gold used: 3504000
+Change in Covenant summons: +82.91%
+
+-Something happened...-
+Covenant summons bought: 11
+Mystic summons bought: 6
+Refreshes done: 236
+Skystones used: 708
+Gold used: 3704000
+Change in Covenant summons: +47.6%
+
+-Something happened...-
+Covenant summons bought: 47
+Mystic summons bought: 16
+Refreshes done: 1269
+Skystones used: 3807
+Gold used: 13128000
+Change in Covenant summons: +17.28%
+
+-Exiting program-
+Covenant summons bought: 0
+Mystic summons bought: 1
+Refreshes done: 6
+Skystones used: 18
+Gold used: 280000
+Change in Covenant summons: +0%
+
+-Something happened...-
+Covenant summons bought: 0
+Mystic summons bought: 0
+Refreshes done: 116
+Skystones used: 348
+Gold used: 0
+Change in Covenant summons: +0%
+
+-Exiting program-
+Covenant summons bought: 1
+Mystic summons bought: 1
+Refreshes done: 23
+Skystones used: 69
+Gold used: 464000
+Change in Covenant summons: +37.68%
+
+-Exiting program-
+Covenant summons bought: 0
+Mystic summons bought: 0
+Refreshes done: 7
+Skystones used: 21
+Gold used: 0
+Change in Covenant summons: +0%
+
+
+-Exiting program-
+Covenant summons bought: 10
+Mystic summons bought: 1
+Refreshes done: 330
+Skystones used: 990
+Gold used: 2120000
+Change in Covenant summons: -4.04%
+
+-Insufficient Skystones-
+Covenant summons bought: 19
+Mystic summons bought: 4
+Refreshes done: 358
+Skystones used: 1074
+Gold used: 4616000
+Change in Covenant summons: +68.06%
+
+-Exiting program-
+Covenant summons bought: 6
+Mystic summons bought: 3
+Refreshes done: 133
+Skystones used: 399
+Gold used: 1944000
+Change in Covenant summons: +42.86%
+
+-Exiting program-
+Covenant summons bought: 5
+Mystic summons bought: 1
+Refreshes done: 105
+Skystones used: 315
+Gold used: 1200000
+Change in Covenant summons: +50.79%
+
+-Exiting program-
+Covenant summons bought: 0
+Mystic summons bought: 1
+Refreshes done: 118
+Skystones used: 354
+Gold used: 280000
+Change in Covenant summons: +0%
+
+-Exiting program-
+Covenant summons bought: 14
+Mystic summons bought: 6
+Refreshes done: 495
+Skystones used: 1485
+Gold used: 4256000
+Change in Covenant summons: -10.44%
+
+-Exiting program-
+Covenant summons bought: 0
+Mystic summons bought: 0
+Refreshes done: 3
+Skystones used: 9
+Gold used: 0
+Change in Covenant summons: +0%
+
+-Exiting program-
+Covenant summons bought: 14
+Mystic summons bought: 4
+Refreshes done: 203
+Skystones used: 609
+Gold used: 3696000
+Change in Covenant summons: +118.39%
+
+-Exiting program-
+Covenant summons bought: 5
+Mystic summons bought: 3
+Refreshes done: 162
+Skystones used: 486
+Gold used: 1760000
+Change in Covenant summons: -2.26%
+
+-Exiting program-
+Covenant summons bought: 1
+Mystic summons bought: 0
+Refreshes done: 58
+Skystones used: 174
+Gold used: 184000
+Change in Covenant summons: -45.4%
+
+-Exiting program-
+Covenant summons bought: 2
+Mystic summons bought: 1
+Refreshes done: 40
+Skystones used: 120
+Gold used: 648000
+Change in Covenant summons: +58.33%
+
+-Exiting program-
+Covenant summons bought: 47
+Mystic summons bought: 8
+Refreshes done: 982
+Skystones used: 2946
+Gold used: 10888000
+Change in Covenant summons: +51.56%
+
+-Exiting program-
+Covenant summons bought: 39
+Mystic summons bought: 15
+Refreshes done: 944
+Skystones used: 2832
+Gold used: 11376000
+Change in Covenant summons: +30.83%
+
+-Exiting program-
+Covenant summons bought: 0
+Mystic summons bought: 0
+Refreshes done: 15
+Skystones used: 45
+Gold used: 0
+Change in Covenant summons: +0%
+
+-Insufficient Skystones-
+Covenant summons bought: 108
+Mystic summons bought: 33
+Refreshes done: 2653
+Skystones used: 7959
+Gold used: 29112000
+Change in Covenant summons: +28.91%
+
+-Cannot find Gold or Skystones-
+
+-Exiting program-
+Covenant summons bought: 42
+Mystic summons bought: 14
+Refreshes done: 1049
+Skystones used: 3147
+Gold used: 11648000
+Change in Covenant summons: +26.79%
+
+-Exiting program-
+Covenant summons bought: 0
+Mystic summons bought: 1
+Refreshes done: 12
+Skystones used: 36
+Gold used: 280000
+Change in Covenant summons: +0%
+
+-Exiting program-
+Covenant summons bought: 4
+Mystic summons bought: 1
+Refreshes done: 92
+Skystones used: 276
+Gold used: 1016000
+Change in Covenant summons: +37.68%
+
+-Exiting program-
+Covenant summons bought: 1
+Mystic summons bought: 0
+Refreshes done: 9
+Skystones used: 27
+Gold used: 184000
+Change in Covenant summons: +251.85%
+
+-Insufficient Skystones-
+Covenant summons bought: 94
+Mystic summons bought: 14
+Refreshes done: 2362
+Skystones used: 7086
+Gold used: 21216000
+Change in Covenant summons: +26.02%
+
+-Cannot find Gold or Skystones-
+
+Failed to find Confirm
+Failed to find CovenantConfirm
+Covenant summons bought: 0
+Mystic summons bought: 1
+Refreshes done: 74
+Skystones used: 222
+Gold used: 280000
+Change in Covenant summons: +0%
+
+Failed to find CovenantConfirm
+Covenant summons bought: 0
+Mystic summons bought: 0
+Refreshes done: 0
+Skystones used: 0
+Gold used: 0
+Change in Covenant summons: +0%
+
+Failed to find Confirm
+Failed to find Confirm
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+-Exiting program-
+Covenant summons bought: 52
+Mystic summons bought: 10
+Refreshes done: 1129
+Skystones used: 3387
+Gold used: 12368000
+Change in Covenant summons: +45.85%
+
+Failed to find Confirm
+Failed to find CovenantConfirm
+Failed to find CovenantConfirm
+Covenant summons bought: 1
+Mystic summons bought: 0
+Refreshes done: 5
+Skystones used: 15
+Gold used: 184000
+Change in Covenant summons: +533.33%
+
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Refresh
+Failed to find Confirm
+Failed to find Confirm
+Failed to find Confirm
+Failed to find Confirm
+Failed to find Confirm
+Failed to find Confirm
+Failed to find Confirm
+Failed to find Confirm
+Failed to find Confirm
+Failed to find Confirm
+Failed to find Confirm
+Failed to find Confirm
+Failed to find CovenantConfirm
+Covenant summons bought: 44
+Mystic summons bought: 14
+Refreshes done: 964
+Skystones used: 2892
+Gold used: 12016000
+Change in Covenant summons: +44.54%
+
+Failed to find CovenantConfirm
+Covenant summons bought: 18
+Mystic summons bought: 2
+Refreshes done: 324
+Skystones used: 972
+Gold used: 3872000
+Change in Covenant summons: +75.93%
+
+Failed to find Confirm
+Failed to find Confirm
+Failed to find Confirm
+Failed to find Confirm
+Failed to find Confirm
+Failed to find Confirm
+Failed to find Confirm
+Failed to find Confirm
+Failed to find Confirm
+Failed to find Confirm
+-Exiting program-
+Covenant summons bought: 20
+Mystic summons bought: 11
+Refreshes done: 754
+Skystones used: 2262
+Gold used: 6760000
+Change in Covenant summons: -16.0%
+
